@@ -1,0 +1,17 @@
+@media (max-width: 1000px) {
+    #bloco-principal{
+        width: 90% !important;
+    }
+
+    #blocoEdicao {
+        width: 90% !important;
+    }
+
+    #editVoltarButton {
+        width: 125px;
+    }
+
+    .editNotaName {
+        gap: 10px;
+    }
+}
